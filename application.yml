@@ -1,5 +1,6 @@
-application:
-  name: UUserService
+spring:
+  application:
+    name: UUserService
 
 
 
